@@ -40,7 +40,7 @@ Additionally, we updated the `transfer` function to reject transfers if the send
 
 ## Contract Address (Testnet)
 
-- **Contract Address:** [Insert Contract Address Here]
+- **Contract Address:** CAVOAG7GXEDYMSDQIRJPHWMOL7VXRTXND4MCJI6ZLQJUI3SS4EW6HJDJ
 
 ## Example Usage
 
